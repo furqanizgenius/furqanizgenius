@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Furqan Mehmood
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web App Development
+- 🌱 I’m currently learning Front-end Web Development
 - 💞️ I’m looking to collaborate on Front-end Developments
-- 📫 How to reach me : www.linkedin.com/in/furqanmehmood92
+- 📫 How to reach me: www.linkedin.com/in/furqanmehmood92
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <!---
